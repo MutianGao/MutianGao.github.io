@@ -10,6 +10,10 @@ Joomla posed some challenges for me, especially regarding whether I could use te
 
 In the end, I managed to replicate a part of a webpage using HTML code (although I struggled with reproducing colors due to my unfamiliarity with template design). Nonetheless, it runs and can be browsed. I believe there is a need for continuous learning in the future and preparation for potential group activities (even though I feel that I might not contribute significantly to a group).
 
+## Weekly study 1:
+
+This week we tried to construct a website using WordPress that is the same as the original joomla (or a new attempt). After I watched the study material, I realized that WordPress is better than joomla in terms of ease of use, modifiability, functionality, and most of all, for example, some of the components in joomla are very difficult to import and there are some problems with some of the add-one links. But these in WordPress do not exist. I've built a much better looking web page with WordPress in about a third of the time. Meanwhile, this week I found my team members and we will start working together in the next few days.
+
 
 
 
