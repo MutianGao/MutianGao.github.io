@@ -14,6 +14,8 @@ In the end, I managed to replicate a part of a webpage using HTML code (although
 
 This week we tried to construct a website using WordPress that is the same as the original joomla (or a new attempt). After I watched the study material, I realized that WordPress is better than joomla in terms of ease of use, modifiability, functionality, and most of all, for example, some of the components in joomla are very difficult to import and there are some problems with some of the add-one links. But these in WordPress do not exist. I've built a much better looking web page with WordPress in about a third of the time. In short, WordPress is almost 90% identical to joomla and I didn't need to do very much extra learning. Also its more convenient for me to edit a web page. Meanwhile, this week I found my team members and we will start working together in the next few days.
 
+## Weekly study 4:
+This week, I deployed a site on my localhost that contains a DB database (test). At the same time I also built wordpress. this is not much different from building it in an online program, the main difficulty is configuring the localhost.
 
 
 
