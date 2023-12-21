@@ -17,5 +17,8 @@ This week we tried to construct a website using WordPress that is the same as th
 ## Weekly study 4:
 This week, I deployed a site on my localhost that contains a DB database (test). At the same time I also built wordpress. this is not much different from building it in an online program, the main difficulty is configuring the localhost.
 
+## Weekly study 5:
+This week we have been learning about the relationship between parent and child themes in wordpress. This section was relatively simple and did not present any additional challenges that could not be solved.
+
 
 
