@@ -20,5 +20,15 @@ This week, I deployed a site on my localhost that contains a DB database (test).
 ## Weekly study 5:
 This week we have been learning about the relationship between parent and child themes in wordpress. This section was relatively simple and did not present any additional challenges that could not be solved.
 
+## Weekly study 6:
+This week, I focused on learning the creation of WordPress themes, delving into the understanding of theme file structures, stylesheet design, and the development of template files. I gradually mastered the fundamental skills of theme development and initiated the construction of a personalized WordPress theme.
 
+## Weekly study 7:
+Engaged in group collaboration, we concentrated on completing the preliminary preparations for the creation of a WordPress theme. This included refining design concepts, clarifying functional requirements, and preparing resource materials, ensuring a clear consensus within the team regarding the direction of theme development.
+
+## Weekly study 8:
+Group collaboration continued as we delved into the application of PHP in WordPress theme development. Our focus was on coding work related to website functionalities, aiming to enhance the theme's practicality and user experience.
+
+## Weekly study 9:
+The group collaboration persisted with collective efforts to fine-tune the details of the WordPress theme. This involved adjustments to page layouts, refinement of functional modules, and other optimizations to ensure the final presentation of a comprehensive and attractive website.
 
